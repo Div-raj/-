@@ -12,5 +12,5 @@ See about me
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divine&layout=compact&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Divine&theme=radical)](https://git.io/streak-stats)
-![My Game](https://img.shields.io/badge/Game-Dodge%20The%20Objects-red?style=for-the-badge&logo=joystick)
+![Neon Game](https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif)
 
