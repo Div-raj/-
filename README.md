@@ -7,7 +7,7 @@ See about me
 - 👨‍💻 I’m open to collaborations on open-source projects
 - ⚡ Fun fact: I love anime, games and UFC!
 ## 📊 Stats 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divine&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Div-raj&show_icons=true&theme=github_dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Div-raj&layout=compact&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Div-raj&theme=radical)](https://git.io/streak-stats)
