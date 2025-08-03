@@ -1,5 +1,4 @@
 See about me
-![Profile views](https://komarev.com/ghpvc/?username=Divine&color=blue)
 # 👋 Hi, I'm Divine
 ### 💻 BTech Student | 🧠 AI/ML & Blockchain Enthusiast | 🏋️ Fitness Lover
 
