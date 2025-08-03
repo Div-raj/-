@@ -9,7 +9,7 @@ See about me
 ## 📊 Stats 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divine&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divine&layout=compact&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Divine&theme=radical)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Div-raj&layout=compact&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Div-raj&theme=radical)](https://git.io/streak-stats)
 ![GIF](https://cdn.pixabay.com/animation/2023/10/10/13/25/13-25-40-109_512.gif)
 
