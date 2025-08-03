@@ -1,5 +1,5 @@
 See about me
-![Profile views](https://komarev.com/ghpvc/?username=𝐃𝐈𝐕𝐈𝐍𝐄&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=Divine&color=blue)
 # 👋 Hi, I'm Divine
 ### 💻 BTech Student | 🧠 AI/ML & Blockchain Enthusiast | 🏋️ Fitness Lover
 
@@ -8,8 +8,8 @@ See about me
 - 👨‍💻 I’m open to collaborations on open-source projects
 - ⚡ Fun fact: I love anime, games and UFC!
 ## 📊 Stats 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=𝐃𝐈𝐕𝐈𝐍𝐄&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divine&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=𝐃𝐈𝐕𝐈𝐍𝐄&layout=compact&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=𝐃𝐈𝐕𝐈𝐍𝐄&theme=radical)](https://git.io/streak-stats)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=𝐃𝐈𝐕𝐈𝐍𝐄&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divine&layout=compact&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Divine&theme=radical)](https://git.io/streak-stats)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Divine&theme=dracula)
