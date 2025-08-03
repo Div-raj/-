@@ -12,5 +12,5 @@ See about me
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divine&layout=compact&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Divine&theme=radical)](https://git.io/streak-stats)
-![GIF](https://tenor.com/view/shrug-i-dont-know-idk-who-knows-gif-15195426)
+![GIF](https://cdn.pixabay.com/animation/2023/10/10/13/25/13-25-40-109_512.gif)
 
